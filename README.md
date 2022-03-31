@@ -1,9 +1,5 @@
-
-![I am Full-Stack Web Developer ](https://avatars.githubusercontent.com/u/59968225?v=4)
 ### Hi there 👋, My Name Is Sizan Mahmud
 #### I am Full-Stack Web Developer 
-
-
 Self-motivated and confident Web Developer. Able to do any web and programming related task by handling difficulties smoothly in any given time. Have a reasonable skill on Front-End development and Back-End development.
 
 Skills: PYTHON / DJANGO / REST API / NEXT JS / REACT / JS / TYPESCRIPT / HTML / CSS
