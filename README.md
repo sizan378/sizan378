@@ -1,4 +1,4 @@
-### Hi there 👋, My Name Is Sizan Mahmud
+### My Name Is Sizan Mahmud
 #### I am Full-Stack Web Developer 
 Self-motivated and confident Web Developer. Able to do any web and programming related task by handling difficulties smoothly in any given time. Have a reasonable skill on Front-End development and Back-End development.
 
