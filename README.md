@@ -4,7 +4,7 @@
 
 Self-motivated and confident Web Developer. Able to do any web and programming related task by handling difficulties smoothly in any given time. Have a reasonable skill on Front-End development and Back-End development.
 
-Skills: PYTHON / DJANGO / REST API / NEXT JS / REACT / JS / TYPESCRIPT / HTML / CSS
+Skills: Python3 / Django Framework / Rest API / NEXT JS / React JS / Node JS / JavaScript / TypeScript / HTML / CSS
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning JavaScript 
