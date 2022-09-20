@@ -1,6 +1,6 @@
 ### My Name Is Sizan Mahmud
 #### I am a Web Developer 
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQF5-zYDQ43AHA/profile-displaybackgroundimage-shrink_350_1400/0/1651138844927?e=1657756800&v=beta&t=FS3gfGREx8XB6wJvi2EmUBPhwTp037190hkC0ZuxfX4)
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQF5-zYDQ43AHA/profile-displaybackgroundimage-shrink_200_800/0/1651138844927?e=1669248000&v=beta&t=gwDROIaj0rMP-FryIdV1l0MB8RH_rSMgsdOWB-JeNPs)
 
 Self-motivated and confident Web Developer. Able to do any web and programming related task by handling difficulties smoothly in any given time. Have a reasonable skill on Front-End development and Back-End development.
 
